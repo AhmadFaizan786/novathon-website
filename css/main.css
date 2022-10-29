@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,900);
 
 .introbox{
-  background-color: #C2D5D1;
+  background-image: url("/assets/img/Polygon.svg");
+  height: auto;
+  width: auto;
 }
